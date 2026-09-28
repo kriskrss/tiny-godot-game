@@ -1,0 +1,9 @@
+# Godot-specific ignores
+.godot/
+*.translation
+
+# exports
+exports/
+
+# misc
+.DS_Store
